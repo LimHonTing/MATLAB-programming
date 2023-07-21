@@ -1,6 +1,6 @@
 # MATLAB-programming 📚🚀
 
-Welcome to the `Matlab Programming Assignment` repository! This project is developed by **LIM HON TING** (Matric Number: S2114212) from the Bachelor of Data Science program at Universiti Malaya. 🎓🌟
+Welcome to the `Matlab Programming Assignment` repository! This project is developed by **Lim Hon Ting** (Matric Number: S2114212) from the Bachelor of Data Science program at Universiti Malaya. 🎓🌟
 
 The main goal of this assignment is to utilize a **Genetic Algorithm** to optimize a **Neural Network** for predicting the output of three databases: Ecoli 🦠, Fertility Diagnosis 👼, and Teaching Assistant Evaluation 👩‍🏫. 
 
@@ -18,10 +18,9 @@ This repository contains the following:
 The Genetic Algorithm has been improved for better performance by incorporating the following techniques:
 
 1. Stochastic Universal Sampling 🎲
-2. Simulated Annealing 🔥
-3. Adaptive Selection and Mutation Rate 🔄
-4. Gaussian Mutation 🌐
-5. Triggered Hypermutation 🚀
+2. Adaptive Selection and Mutation Rate 🔄
+3. Gaussian Mutation 🌐
+4. Triggered Hypermutation 🚀
 
 Moreover, other methods have been explored to test the code performance, such as:
 
