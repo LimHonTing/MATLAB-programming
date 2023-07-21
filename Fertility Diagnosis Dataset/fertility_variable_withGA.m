@@ -1,0 +1,1 @@
+[population, fitness_score, progress] = fertility_run_ann_withGA();
